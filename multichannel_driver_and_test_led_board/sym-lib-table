@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLC5946PWPR")(type "KiCad")(uri "${KIPRJMOD}/local_symbols/TLC5946PWPR.kicad_sym")(options "")(descr ""))
+)
